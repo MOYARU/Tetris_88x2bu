@@ -5,11 +5,12 @@
 (`tetris`, MediaTek MT6878) on **Kali NetHunter LITE** — with
 **monitor mode + frame injection**
 `aireplay-ng --test` result : **30 / 30 (100%)**
+
 The CMF is a really cool phone! I really wanted to run Kali Linux NetHunter, monitoring, and injection on this device.
 
 </div>
 
-## Kernel Compatibilit
+## Kernel Compatibility
 This file works only with the corresponding kernel.
 ```
 6.1.145-android14-11-g09f1c0074ad7-ab14226177
